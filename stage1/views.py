@@ -6,9 +6,9 @@ from django.shortcuts import render
 def zuri_api(request):
     return JsonResponse(
         {
-            "slackUsername": "itsweshy", 
+            "slackUsername": "patience izere", 
             "backend": True,
-            "age": 25,
-            "bio": "Hooked on continuous self-improvement, open to new exciting opportunities and passionate about the Django backend space"
+            "age": 21,
+            "bio": "Motivated, high ambitious and hard working person fitting into world technology based era"
         }
     )
